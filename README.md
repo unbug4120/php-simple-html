@@ -20,7 +20,7 @@ Install
  composer.phar
 ```json
 "require": {
-    "duongdat/php-simple-html-dom-parser": "1.0"
+    "unbug4120/php-simple-html-dom-parser": "1.0"
     }
 ```
 
