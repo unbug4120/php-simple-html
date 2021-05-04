@@ -24,7 +24,7 @@
         "rss": "https://sourceforge.net/p/simplehtmldom/news/feed.rss"
     },
     "autoload": {
-        "psr-0": { "duongdat\\phpSimple\\HtmlDomParser": "src/"
+        "psr-0": { "duongdat\\phpSimple\\HtmlDomParser": "src/" }
     },
     "require": {
         "php": ">=5.6",
