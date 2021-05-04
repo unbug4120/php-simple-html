@@ -1,5 +1,5 @@
 <?php
-namespace duongdat\PhpSimpleHtmlDom;
+namespace duongdat\PhpSimple;
 
 require 'lib'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
 
